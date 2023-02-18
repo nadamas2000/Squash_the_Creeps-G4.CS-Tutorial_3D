@@ -70,12 +70,3 @@ jump={
 3d_physics/layer_1="player"
 3d_physics/layer_2="enemies"
 3d_physics/layer_3="world"
-
-[rendering]
-
-lights_and_shadows/directional_shadow/soft_shadow_filter_quality=4
-lights_and_shadows/directional_shadow/16_bits=false
-camera/depth_of_field/depth_of_field_bokeh_quality=2
-lights_and_shadows/positional_shadow/atlas_16_bits=false
-quality/driver/driver_name="GLES2"
-quality/filters/msaa=3
