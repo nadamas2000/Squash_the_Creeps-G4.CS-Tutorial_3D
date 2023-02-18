@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squash the Creeps - G4RC2.CS - Tutorial 3D", "Squash the Creeps - G4RC2.CS - Tutorial 3D.csproj", "{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{E4F6AD51-C94F-47BC-B9EF-ED5DEE009D1C}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
