@@ -2,5 +2,5 @@
 .godot/
 .mono/
 .vscode/
-*.old
+*.old*
 .DS_Store
