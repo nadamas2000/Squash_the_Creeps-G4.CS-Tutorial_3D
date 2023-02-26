@@ -3,4 +3,8 @@
 .mono/
 .vscode/
 *.old*
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> 2f5162616e603100e977095853c7bc58c7074ecd
